@@ -1,0 +1,6 @@
+{
+  "name": "Kiju - EdTech CTO Roadmap & AI Simulator",
+  "description": "Feuille de route technique CTO, architecture logicielle et simulateur interactif pour Kiju (Text-to-Video, QCM, Micro-Abonnement 1€/mois)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
